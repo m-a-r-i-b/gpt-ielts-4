@@ -1,3 +1,4 @@
+
 from utils import delimiter
 from utils import get_completion_from_messages
 
@@ -25,6 +26,7 @@ Band 8:
 A wide resource is fluently and flexibly used to convey precise meanings.
 There is skilful use of uncommon and/or idiomatic items when appropriate, despite occasional inaccuracies in word choice and collocation.
 Occasional errors in spelling and/or word formation may occur, but have minimal impact on communication.
+Please answer the questions completely.
 
 Band 9:
 Full flexibility and precise use are widely evident.
