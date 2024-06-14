@@ -1,3 +1,4 @@
+
 from utils import delimiter
 from utils import get_completion_from_messages
 
@@ -27,7 +28,6 @@ There is skilful use of uncommon and/or idiomatic items when appropriate, despit
 Occasional errors in spelling and/or word formation may occur, but have minimal impact on communication.
 
 Band 9:
-Full flexibility and precise use are widely evident.
 A wide range of vocabulary is used accurately and appropriately with very natural and sophisticated control of lexical features.
 Minor errors in spelling and word formation are extremely rare and have minimal impact on communication.
 
@@ -41,7 +41,6 @@ Band score : 7
 Feedback :
 
 """
-
 
 
 # ======================================================================================================================
